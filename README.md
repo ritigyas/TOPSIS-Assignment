@@ -3,9 +3,9 @@
 This project implements the **TOPSIS** multi-criteria decision-making technique to rank alternatives based on multiple conflicting criteria.
 
 The assignment is implemented as:
-- ✅ A **command-line tool** (Part-I)
-- ✅ A **Python package uploaded on PyPI** (Part-II)
-- ✅ A **Flask web service** that emails the output file (Part-III)
+-  A **command-line tool** (Part-I)
+-  A **Python package uploaded on PyPI** (Part-II)
+-  A **Flask web service** that emails the output file (Part-III)
 
 ---
 
@@ -98,7 +98,7 @@ Ranking of Alternatives
 # PART-I (Command Line Program)
 
 ### Run Command
-```bash
+
 python topsis.py <InputDataFile> <Weights> <Impacts> <OutputResultFileName>
 
 PART-II (PyPI Package)
